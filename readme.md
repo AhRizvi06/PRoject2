@@ -2,4 +2,4 @@
 
 This project was created in local device.
 
-Created BY Ahmmed Rizvi
+Created BY Ahmmed Rizvi.
